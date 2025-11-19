@@ -1,0 +1,5 @@
+{
+  "name": "VibeShare",
+  "description": "A centralized platform for engineering teams to share Vibe Coding prompts, builder snapshots, and deployment URLs with AI-powered categorization.",
+  "requestFramePermissions": []
+}
